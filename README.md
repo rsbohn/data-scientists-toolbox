@@ -1,4 +1,4 @@
-# data-scientists-toolbox
+# datasciencecoursera
 For the class I'm taking on Coursera.
 
 * all work and no play makes Jack a dull boy.
